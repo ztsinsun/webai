@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     },
     app: {
         head: {
-            title: 'ZCloud',
+            title: 'ZCloud AI Web By CF Worker',
             meta: [
                 {
                     name: 'keywords',
