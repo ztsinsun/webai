@@ -21,7 +21,7 @@ export default defineNuxtConfig({
                 },
                 {
                     name: 'description',
-                    content: 'Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT by Jazee6'
+                    content: 'Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT'
                 }
             ]
         }
